@@ -1,4 +1,4 @@
-<h1>Network Share Drive Creation and Backup</h1>
+<h1>Network Share Drive Creation and Automated Backup</h1>
 
 <!-- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo) -->
 
