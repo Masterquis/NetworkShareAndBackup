@@ -32,8 +32,8 @@ We'll want to create a new Volume from existing, unused, drive space.
 <img src="https://i.imgur.com/4i6tMEU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Now that we have Disk space carved out for a Shared Network Drive, we can create the drive. We only use half the space available. This is important because we'll use the rest of the space later on when we configure automated backups.
-- <b>ACTION:</b> Create the New Volume, give it a Drive Letter and Volume Label <br/>
+Now that we have Disk space carved out for a Shared Network Drive, we can create the drive. We only use half the space available. This is important because we'll use the rest of the space later on when we configure automated backups.</br>
+- <b>ACTION:</b>Create the New Volume, give it a Drive Letter and Volume Label <br/>
 <img src="https://i.imgur.com/FnlKYTb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/0zDPjeG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/Sc6ycl4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -58,8 +58,8 @@ We have to make sure that Administrators have access to this drive so we can set
 <img src="https://i.imgur.com/JIF5or6.png" height="80%" width="80%" alt="VM and Server 2016 Steps"/>
 <br />
 <br />
-- <b>ACTION:</b>Used Shadow Copy to create automated back-ups for the entire S: Volume. This Shadow Copy (B:) is the exact same size as the S: Volume so we can have there be no-limit to size.
-- Also, we scheduled back-ups to be created every-day during off hours (2:00AM) so as not to interrupt the flow of a work-day. <br/>
+- <b>ACTION:</b>Used Shadow Copy to create automated back-ups for the entire S: Volume. This Shadow Copy (B:) is the exact same size as the S: Volume so we can have there be no-limit to size. </br>
+Also, we scheduled back-ups to be created every-day during off hours (2:00AM) so as not to interrupt the flow of a work-day. <br/>
 <img src="https://i.imgur.com/OhJe3vQ.png" height="80%" width="80%" alt="VM and Server 2016 Steps"/>
 <img src="https://i.imgur.com/WxU8u9v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/CLM87Xh.png" height="80%" width="80%" alt="VM and Server 2016 Steps"/>
